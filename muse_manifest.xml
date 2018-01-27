@@ -1,0 +1,51 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.suryatai.com" resolutions="1x,2x" timestamp="1516313859684">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="174313752" ref="index:our-goals:about-us:contact-us"/>
+    <file name="nomq_preview_master_a-master.css" crc="4040793494" ref="index:our-goals:about-us:contact-us"/>
+    <file name="index.css" crc="405887812" ref="index"/>
+    <file name="nomq_index.css" crc="113906380" ref="index"/>
+    <file name="our-goals.css" crc="3844000191" ref="our-goals"/>
+    <file name="nomq_our-goals.css" crc="3785909561" ref="our-goals"/>
+    <file name="about-us.css" crc="3844000191" ref="about-us"/>
+    <file name="nomq_about-us.css" crc="3785909561" ref="about-us"/>
+    <file name="contact-us.css" crc="3951371274" ref="contact-us"/>
+    <file name="nomq_contact-us.css" crc="504237481" ref="contact-us"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-us:our-goals:contact-us"/>
+    <file name="museutils.js" crc="163421577" ref="index:about-us:our-goals:contact-us"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about-us:our-goals:contact-us"/>
+    <file name="museconfig.js" crc="168988563" ref="index:about-us:our-goals:contact-us"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index:contact-us"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:about-us:our-goals:contact-us"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index:about-us:our-goals:contact-us"/>
+    <file name="require.js" crc="244322403" ref="index:about-us:our-goals:contact-us"/>
+    <file name="webpro.js" crc="3848665353" ref="contact-us"/>
+    <file name="form_check.php" crc="158155501" ref="contact-us"/>
+    <file name="form_throttle.php" crc="3992970984" ref="contact-us"/>
+    <file name="form_process.php" crc="4078697226" ref="contact-us"/>
+    <file name="form-u1595.php" crc="3880575194" ref="contact-us"/>
+  </folder>
+  <folder name="images">
+    <file name="pasted-svg-544x167.svg" crc="71432437" seo="true" ref="index:about-us:our-goals:contact-us"/>
+    <file name="pasted svg 544x167_poster_.png" crc="306605656" ref="index"/>
+    <file name="pasted-svg-184x193.svg" crc="3970062172" seo="true" ref="index:about-us:our-goals:contact-us"/>
+    <file name="pasted svg 184x193_poster_.png" crc="381651681" ref="index"/>
+    <file name="camera-lens-png-pic.png" crc="212231653" ref="index:contact-us"/>
+    <file name="camera-lens-png-pic_2x.png" crc="3988909918" ref="index:contact-us"/>
+    <file name="neurons_artificial_intelligence.jpg" crc="190975186" ref="index:contact-us"/>
+    <file name="neurons_artificial_intelligence_2x.jpg" crc="110590139" ref="index:contact-us"/>
+    <file name="camera-lens-png--------camera-lens-icon-png-8.png" crc="3833736502" ref="index:contact-us"/>
+    <file name="camera-lens-png--------camera-lens-icon-png-8_2x.png" crc="4243859895" ref="index:contact-us"/>
+    <file name="traffic.jpg" crc="4288147402" ref="index"/>
+    <file name="traffic_2x.jpg" crc="98224849" ref="index"/>
+    <file name="traffic-u1437-fr.jpg" crc="397699173" ref="index"/>
+    <file name="traffic-u1437-fr_2x.jpg" crc="4164118380" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:about-us:our-goals:contact-us"/>
+  </folder>
+  <file name="index.html" crc="266975399" seo="true" mt="1510948138298" redirect="true"/>
+  <file name="about-us.html" crc="398069805" seo="true" mt="1510948138298" redirect="true"/>
+  <file name="our-goals.html" crc="4080678677" seo="true" mt="1510948138298" redirect="true"/>
+  <file name="contact-us.html" crc="230309159" seo="true" mt="1510948138298" redirect="true"/>
+</manifest>

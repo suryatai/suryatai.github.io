@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://www.suryatai.com/index.html</loc>
+    <lastmod>2017-11-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.suryatai.com/about-us.html</loc>
+    <lastmod>2017-11-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.suryatai.com/our-goals.html</loc>
+    <lastmod>2017-11-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.suryatai.com/contact-us.html</loc>
+    <lastmod>2017-11-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.suryatai.com/images/pasted-svg-544x167.svg</loc>
+    <lastmod>2018-01-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.suryatai.com/images/pasted-svg-184x193.svg</loc>
+    <lastmod>2018-01-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
